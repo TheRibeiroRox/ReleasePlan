@@ -9,7 +9,7 @@
     3.  Final Release - Usuario Ja consegue usar todas as tarefas tecnicas de suas user stories  
 
 
-    User Storie
+    User Stori
    
    2. Como um cliente Eu quero poder ver todas as minhas consultas para me organizar 
         2.1 - Criação De Um Menu contendo todas as consultas marcadas e suas consultas passadas -  9 Pontos
